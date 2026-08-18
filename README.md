@@ -21,7 +21,7 @@ SentiCare AI is an AI-powered conversational wellness companion designed to prov
 ## Tech Stack
 
 * **Back-End**: Python, Flask, SQLite3
-* **AI Engine**: Google GenAI SDK (`gemini-2.5-flash` / `gemini-1.5-flash`)
+* **AI Engine**: Google GenAI SDK (`gemini-3.6-flash`)
 * **Front-End**: Vanilla JavaScript (ES6+), CSS3 (Modern Flex/Grid, Custom Properties), HTML5
 * **Libraries**: Marked.js (Markdown parsing), DOMPurify (XSS protection), Plus Jakarta Sans font
 
